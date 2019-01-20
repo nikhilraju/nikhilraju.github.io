@@ -2,7 +2,7 @@
 
 The diagram below represents a common workflow for a developer
 
-[[/assets/clubhouse_images/Clubhouse-Workflow.png]]
+[[https://github.com/nikhilraju/nikhilraju.github.io/blob/master/assets/images/Clubhouse-Workflow.png]]
 
 
 ## Why use Clubhouse?
