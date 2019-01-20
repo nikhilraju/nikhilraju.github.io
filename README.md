@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/nikhilraju/nikhilraju.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[[Mongo-Server-Administration]](Mongo-Server-Administration.md)
+[Mongo-Server-Administration](docs/Mongo-Server-Administration.md)
 
 ### Markdown
 
