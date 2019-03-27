@@ -18,6 +18,8 @@ The intention of this document is to share a brief overview of relevant concepts
 
 Similar to the process for application code changes, server configurations and changes should also be reviewed by one or more core contributor. 
 
+---
+
 ## mongod process 
 
 mongod is the primary daemon process for the MongoDB system. It handles data requests, manages data access, and performs background management operations.
@@ -57,6 +59,8 @@ Some important design decisions and tradeoffs:
 **NOTE** To use `majority`, `replication.enableMajorityReadConcern` should be true.
 
 For more information on replication please see the official [documentation](https://docs.mongodb.com/manual/replication/)
+
+---
 
 ## Managing Roles 
 [Official Link](https://docs.mongodb.com/v3.2/tutorial/manage-users-and-roles/#overview)
@@ -101,3 +105,6 @@ In case you end up doing this step manually, some things to remember are:
 * Make sure the volumes are [mounted](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-using-volumes.html) otherwise the additional volumes won't be used.
 * Storage: WiredTiger ( Mongo's storage engine ) highly recommends using [`XFS`](https://wiki.ubuntu.com/XFS) 
 Read [this](https://scalegrid.io/blog/xfs-vs-ext4-comparing-mongodb-performance-on-aws-ec2/) to get a sense of the performane difference with ext4
+
+---
+
