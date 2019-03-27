@@ -17,7 +17,7 @@ description: General information related to administeration of a Mongo Server
 
 The diagram below represents a simple workflow for a developer
 
-![Clubhouse Workflow](https://github.com/nikhilraju/nikhilraju.github.io/blob/master/assets/images/Clubhouse-Workflow.png)
+[Clubhouse Workflow][[assets/images/Clubhouse-Workflow.png)]]
 
 
 ## Why use Clubhouse?
