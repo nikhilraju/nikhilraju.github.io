@@ -1,3 +1,18 @@
+---
+title: "MongoDB Server Administration"
+layout: post
+date: 2018-02-20 20:21
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- components
+- extra
+category: blog
+author: nikhilraju
+description: General information related to administeration of a Mongo Server
+---
+
 # MongoDB Server Administration
 The intention of this document is to share a brief overview of relevant concepts and internal knowledge necessary to administer and debug server side issues
 
