@@ -1,3 +1,18 @@
+---
+title: "Project Management Workflow"
+layout: post
+date: 2018-10-12 18:33
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- components
+- extra
+category: blog
+author: nikhilraju
+description: General information related to administeration of a Mongo Server
+---
+
 # Project Management Workflow
 
 The diagram below represents a simple workflow for a developer
