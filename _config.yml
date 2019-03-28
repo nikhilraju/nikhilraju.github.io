@@ -1,6 +1,6 @@
 # main text of home
 name: Nikhil Raju
-bio: A Data Scientist who strongly believes good software engineering practices are essential for success in any machine learning project. Looking for accelerated learning and growth opportunities where I can be a multiplier.
+bio: A Data Scientist who believes good software engineering practices are essential for success in any machine learning project. Looking for accelerated learning and growth opportunities where I can be a multiplier.
 
 
 # twitter summary info
@@ -14,8 +14,8 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://drive.google.com/file/d/1UZaO5WMOI73_NXhc2qS_STQeOtgL_8y2/view?usp=sharing
+resume-external: true 
+resume-url: https://drive.google.com/open?id=1V5cXmNXb-5vp5TX5aZ4eqbN-V62gkwKM
 
 url: https://nikhilraju.github.io
 # your url: http://USERNAME.github.io
