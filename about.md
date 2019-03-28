@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>A Data Scientist who strongly believes good software engineering practices are essential for success in any machine learning project. Looking for accelerated learning and growth opportunities where I can be a multiplier.</p>
+<p>A Data Scientist who believes good software engineering practices are essential for success in any machine learning project. Looking for accelerated learning and growth opportunities where I can be a multiplier.</p>
 
 <h2>Skills</h2>
 
