@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>A Data Scientist passionate about software engineering, deep learning, and natural language processing. Over 6 years of experience in tackling real-world business problems at AI startups and developing innovative solutions to problems that cut across several domains. Looking for accelerated growth opportunities where I can be a multiplier.</p>
+<p>A Machine Learning Engineer passionate about software engineering, deep learning, and natural language processing. Over 9 years of experience in tackling real-world business problems at AI startups and developing innovative solutions to problems that cut across several domains..</p>
 
 <h2>Skills</h2>
 
