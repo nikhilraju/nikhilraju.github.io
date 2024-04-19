@@ -1,6 +1,6 @@
 # main text of home
 name: Nikhil Raju
-bio: A Machine Learning Engineer passionate about software engineering, deep learning, and natural language processing. Over 9 years of experience in tackling real-world business problems at AI startups and developing innovative solutions to problems that cut across several domains.
+bio: Innovative Machine Learning Leader with 10+ years of experience driving AI startups to the next level. Deep expertise in applying ML, NLP, generative AI and LLMs across diverse domains. From seed stages to pre-IPO, I've led teams and built scalable production ML solutions for B2B an B2C products. 
 
 # twitter summary info
 description: A blog about machine learning and technology
@@ -8,7 +8,7 @@ description: A blog about machine learning and technology
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile-3.jpg
+picture: assets/images/profile-4.jpeg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
